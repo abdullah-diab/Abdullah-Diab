@@ -6,7 +6,7 @@ Welcome to my GitHub profile! My name is Abdullah Diab and I'm a React developer
 
 🌱 I'm always learning and staying up-to-date with the latest React libraries and tools.
 
-📫 If you have any questions or would like to connect, please feel free to email me at [Mail](abdullahdiab00@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah--diab/).
+📫 If you have any questions or would like to connect, please feel free to email me at [Mail](mailto:abdullahdiab00@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah--diab/).
 
 Thanks for stopping by!
 
